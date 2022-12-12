@@ -1,6 +1,8 @@
 # Econometrics-HW1
 author: Tianxiong Yu, contact: tyuy@edu.hse.ru
 
+2022-12-12 upload preprocessed file ver.1.3, and R file for regrassion
+
 2022-12-11 hw2 supported materials also saved in this repo
 
 updates: v1.1 add some analysis on Discount Rate.
